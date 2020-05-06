@@ -1,3 +1,4 @@
+#setting up a new VM# 
 Set-AzVMExtension `
   -ResourceGroupName myResourceGroupAG `
   -ExtensionName IIS `
